@@ -15,9 +15,9 @@ Python.
 3. **Start** your integrated development environment, for exaple *PyCharm*.
 4. **Enter** the data in the *input.json* file.<br>
 ![image](https://github.com/PatrykBala/INP-to-MESH/assets/73967948/2c14b95b-8cf8-456a-af46-8dde1b060441)<br>
-&emsp;*name* - this will be the name of the file
-&emsp;*width, height* - dimensions
-&emsp;*nodes_count* - the number of nodes on the edges
+&emsp;*name* - this will be the name of the file;<br>
+&emsp;*width, height* - dimensions;<br>
+&emsp;*nodes_count* - the number of nodes on the edges.
 5. **Point** to the extracted folder (in your development environment).<br>
 ![image](https://github.com/PatrykBala/INP-to-MESH/assets/73967948/0753310f-5f65-45c2-b259-8e49f8b9d337)<br>
 6. **Run** the script.<br>
